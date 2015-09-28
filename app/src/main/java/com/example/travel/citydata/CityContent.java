@@ -23,7 +23,7 @@ public class CityContent {
 
 	static {
 		// Add 3 sample items.
-		addItem(new CityItem("1", "New York", "https://en.wikipedia.org/wiki/New_York"));
+		addItem(new CityItem("1", "New York", "https://en.wikipedia.org/wiki/New_York_City"));
 		addItem(new CityItem("2", "Cairo", "https://en.wikipedia.org/wiki/Cairo"));
 		addItem(new CityItem("3", "Paris", "https://en.wikipedia.org/wiki/Paris"));
 	}
